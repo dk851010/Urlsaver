@@ -1,0 +1,19 @@
+
+{
+  "name": "URL Saver App",
+  "short_name": "URL Saver",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e90ff",
+  "scope": "./",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./generated-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
